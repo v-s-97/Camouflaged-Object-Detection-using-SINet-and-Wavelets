@@ -64,5 +64,3 @@ These results indicate strong alignment and low average error, with remaining di
 * Misses can occur under **extreme camouflage** or very low contrast (false negatives).
 * Consider **Coiflet** wavelets for sharper edge fidelity (with higher compute), and broader datasets for robustness. 
 
----
-
