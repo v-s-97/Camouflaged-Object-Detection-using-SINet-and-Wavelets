@@ -1,6 +1,6 @@
 # Camouflaged Object Detection using SINet and Wavelets
 
-> A coarse-to-fine camouflaged object detector that augments SINet with Discrete Wavelet Transform (DWT) features for stronger frequency–spatial reasoning. 
+A coarse-to-fine camouflaged object detector that augments SINet with Discrete Wavelet Transform (DWT) features for stronger frequency–spatial reasoning. 
 
 ---
 
